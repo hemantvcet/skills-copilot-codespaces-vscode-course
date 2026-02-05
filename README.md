@@ -9,6 +9,10 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
+![Deprecation Badge](https://img.shields.io/badge/Course-Deprecated-333?logo=github&labelColor=454c54&color=bf8700)
+
+> **Note**: This course has been deprecated. Please visit the [Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot) exercise for the newest learning content.
+
 # Code with GitHub Copilot
 
 _GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
